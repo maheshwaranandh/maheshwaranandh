@@ -27,5 +27,5 @@ AWS | Azure | Git | GitHub | Linux | Bash | Python | Docker | Terraform | Kubern
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshwaranandh&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwaranandh&layout=compact&theme=radical)
