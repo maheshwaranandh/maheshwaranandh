@@ -28,5 +28,4 @@ AWS | Azure | Git | GitHub | Linux | Bash | Python | Docker | Terraform | Kubern
 
 ## 📈 GitHub Stats
 ![GitHub Stats](![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshwaranandh&theme=radical)
-)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwaranandh&layout=compact&theme=radical)
