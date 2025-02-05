@@ -4,7 +4,7 @@ DevOps & Cloud Enthusiast | AWS Certified | Azure Certified
 
 📫 **Contact:**  
 - 📧 Email: maheshwaranandh@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/maheshwar-anandh-m-438221254) | [GitHub](https://github.com/maheshwaranandh) | [Resume](https://drive.google.com/file/d/1r2-iynbrsEgTq_Ih_1YS5RRqNkN8MFfW/view?usp=drive_link)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/maheshwar-anandh-m-438221254) | [GitHub](https://github.com/maheshwaranandh) | [Resume](https://drive.google.com/file/d/1D172HlNRssjDjvR8o9rk42qf9u04WpnY/view)
 
 ---
 
